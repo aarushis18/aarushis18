@@ -3,11 +3,12 @@
 i build because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
 
 ## what i’m into
-[![spotify-github-profile](https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 * art & painting · movies (b&w classics, noir, westerns, modern blockbusters, literally anything) · reading · nature
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
 * tech: backend & systems, clean apis, tiny services, thoughtful ux
+
+[![spotify-github-profile](https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 > ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical
 
 ## now
@@ -16,9 +17,7 @@ i build because i’m curious. recent cs grad @ university of michigan. software
 
 ## stack & stats
 * **languages**: python · c/c++ · javascript/typescript · java · sql
-
 * **frameworks**: react · flask/fastapi · spring boot · tensorflow · pytorch
-
 * **infra/dev**: docker · aws (lambda, ecs, dynamodb) · github actions · gradle · linux
 
 <p align="left">
