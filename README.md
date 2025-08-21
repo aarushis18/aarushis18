@@ -5,7 +5,7 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
 ---
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f"
+  <img src="https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=default&show_offline=false&background_color=202830&interchange=true&bar_color_cover=true"
        alt="now playing on spotify" align="right" width="250" />
 </a>
 
