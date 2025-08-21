@@ -2,20 +2,31 @@
 
 i build because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
 
-## what i’m into
+
+
+
+
+---
+### what i’m into
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f"
+       alt="now playing on spotify" align="right" width="250" />
+</a>
+
 * art & painting · movies (b&w classics, noir, westerns, modern blockbusters, literally anything) · reading · nature
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
 * tech: backend & systems, clean apis, tiny services, thoughtful ux
 
-[![spotify-github-profile](https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 > ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical
+<!-- two-column row: text left, card right -->
+<!-- borderless two-column layout using a floated image -->
 
-## now
-* 🎓 graduated: computer science @ university of michigan
-* ⚙️ building: small utilities, data & ml, and delightful web apps
-
-## stack & stats
+---
+### now
+- 🎓 graduated: computer science @ university of michigan
+- ⚙️ building: small utilities, data & ml, and delightful web apps
+---
+### stack & stats
 * **languages**: python · c/c++ · javascript/typescript · java · sql
 * **frameworks**: react · flask/fastapi · spring boot · tensorflow · pytorch
 * **infra/dev**: docker · aws (lambda, ecs, dynamodb) · github actions · gradle · linux
@@ -27,8 +38,8 @@ i build because i’m curious. recent cs grad @ university of michigan. software
 </p>
 
 >working on making my gitHub contribution chart more green 😭
-
-## find me
+---
+### find me
 linkedin: [linkedin.com/in/aarushishah](https://www.linkedin.com/in/aarushishah)
 
 <!-- notes for future me:
