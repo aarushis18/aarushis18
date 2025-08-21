@@ -1,6 +1,6 @@
 # hi, i'm aarushi!
 
-i like to build things because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
+i like to build things because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, intentional and clean — in code and design.
 
 ---
 
@@ -11,21 +11,21 @@ i like to build things because i’m curious. recent cs grad @ university of mic
 
 ### what i’m into
 
-* art & painting · movies (b&w classics, noir, westerns, modern blockbusters, <em>literally</em> anything) · reading · nature
+* art & painting, movies (b&w classics, noir, westerns, modern blockbusters, <em>literally</em> anything), reading, nature
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
 * tech: backend & systems, clean apis, tiny services, thoughtful ux
 
-> ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical 🎵🎥
+> ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical 🎵
 <!-- two-column row: text left, card right -->
 <!-- borderless two-column layout using a floated image -->
 
 ---
 ### now
 - 🎓 graduated: computer science @ university of michigan
-- ⚙️ building: small utilities, data & ml, and delightful web apps
+- ⚙️ building: scalable ML tools, realtime data apps, useful dev utilities
 ---
 ### stack & stats
-* **languages**: `python` · `c/c++` · `javascript/typescript` · `java` · `sql`
+* **languages**: `python` · `c/c++` · `java` · `sql` · `javascript/typescript` 
 * **frameworks**: `react` · `flask/fastapi` · `spring boot` · `tensorflow` · `pytorch`
 * **infra/dev**: `docker` · `aws (lambda, ecs, dynamodb)` · `github actions` · `gradle` · `linux`
 
@@ -37,20 +37,14 @@ i like to build things because i’m curious. recent cs grad @ university of mic
             srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&bg_color=00000000&hide_border=true&v=2" />
     <source media="(prefers-color-scheme: light)"
             srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=graywhite&bg_color=00000000&hide_border=true&v=2" />
-    <img alt="GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=graywhite&bg_color=00000000&hide_border=true&v=2"
-         height="140" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=graywhite&bg_color=00000000&hide_border=true&v=2" height="140" />
   </picture>
   
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=dark&hide_border=true&background=00000000&v=2" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2" />
-    <img alt="GitHub streak"
-         src="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2"
-         height="140" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=dark&hide_border=true&background=00000000&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2" height="140" />
   </picture>
 
   <!-- Optional: Top Languages (kept commented) -->
@@ -68,7 +62,7 @@ i like to build things because i’m curious. recent cs grad @ university of mic
 
 </p>
 
->trying to keep my github contribution chart green 😭
+> trying to keep my contribution chart green ☘️
 ---
 ### find me
 linkedin: [linkedin.com/in/aarushishah](https://www.linkedin.com/in/aarushishah)
