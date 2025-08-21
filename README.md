@@ -39,7 +39,7 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
             srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true" />
     <img alt="GitHub stats"
          src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true"
-         height="180" />
+         height="140" />
   </picture>
 
   <!-- Streak Stats -->
@@ -50,7 +50,7 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
             srcset="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000" />
     <img alt="GitHub streak"
          src="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000"
-         height="180" />
+         height="140" />
   </picture>
 
   <!-- Optional: Top Languages (kept commented) -->
