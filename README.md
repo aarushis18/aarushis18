@@ -1,10 +1,6 @@
 # hi, i'm aarushi!
 
-i build because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
-
-
-
-
+i like to build because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
 
 ---
 
@@ -15,7 +11,7 @@ i build because i’m curious. recent cs grad @ university of michigan. software
 
 ### what i’m into
 
-* art & painting · movies (b&w classics, noir, westerns, modern blockbusters, literally anything) · reading · nature
+* art & painting · movies (b&w classics, noir, westerns, modern blockbusters, <em>literally</em> anything) · reading · nature
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
 * tech: backend & systems, clean apis, tiny services, thoughtful ux
 
@@ -34,9 +30,42 @@ i build because i’m curious. recent cs grad @ university of michigan. software
 * **infra/dev**: docker · aws (lambda, ecs, dynamodb) · github actions · gradle · linux
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=graywhite" height="140" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushis18&layout=compact&theme=graywhite" height="140" /> -->
+
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=dark&bg_color=00000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true" />
+    <img alt="GitHub stats"
+         src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true"
+         height="180" />
+  </picture>
+
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=dark&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000" />
+    <img alt="GitHub streak"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000"
+         height="180" />
+  </picture>
+
+  <!-- Optional: Top Languages (kept commented) -->
+  <!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushis18&layout=compact&theme=dark&bg_color=00000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushis18&layout=compact&theme=graywhite&bg_color=00000000&hide_border=true" />
+    <img alt="Top languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushis18&layout=compact&theme=graywhite&bg_color=00000000&hide_border=true"
+         height="140" />
+  </picture>
+  -->
+
 </p>
 
 >working on making my gitHub contribution chart more green 😭
