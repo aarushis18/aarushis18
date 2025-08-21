@@ -7,11 +7,13 @@ i build because i’m curious. recent cs grad @ university of michigan. software
 
 
 ---
-### what i’m into
+
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img src="https://spotify-now-playing-aarushis18.vercel.app/api/view?uid=aarushi18&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f"
        alt="now playing on spotify" align="right" width="250" />
 </a>
+
+### what i’m into
 
 * art & painting · movies (b&w classics, noir, westerns, modern blockbusters, literally anything) · reading · nature
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
