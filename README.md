@@ -1,6 +1,6 @@
 # hi, i'm aarushi!
 
-i like to build because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
+i like to build things because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, geometric, intentional and clean — in code and design.
 
 ---
 
@@ -15,7 +15,7 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
 * sports: tennis (main), running, soccer, swimming, skiing, backpacking, etc.
 * tech: backend & systems, clean apis, tiny services, thoughtful ux
 
-> ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical
+> ask me what i just watched or what i’m listening to — i’ve got takes from rap to bossa nova to house/techno to jazz to classical 🎵🎥
 <!-- two-column row: text left, card right -->
 <!-- borderless two-column layout using a floated image -->
 
@@ -25,31 +25,31 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
 - ⚙️ building: small utilities, data & ml, and delightful web apps
 ---
 ### stack & stats
-* **languages**: python · c/c++ · javascript/typescript · java · sql
-* **frameworks**: react · flask/fastapi · spring boot · tensorflow · pytorch
-* **infra/dev**: docker · aws (lambda, ecs, dynamodb) · github actions · gradle · linux
+* **languages**: `python` · `c/c++` · `javascript/typescript` · `java` · `sql`
+* **frameworks**: `react` · `flask/fastapi` · `spring boot` · `tensorflow` · `pytorch`
+* **infra/dev**: `docker` · `aws (lambda, ecs, dynamodb)` · `github actions` · `gradle` · `linux`
 
 <p align="left">
 
   <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=dark&bg_color=00000000&hide_border=true" />
+            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&bg_color=00000000&hide_border=true&v=2" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true" />
+            srcset="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=graywhite&bg_color=00000000&hide_border=true&v=2" />
     <img alt="GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&theme=graywhite&bg_color=00000000&hide_border=true"
+         src="https://github-readme-stats.vercel.app/api?username=aarushis18&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=graywhite&bg_color=00000000&hide_border=true&v=2"
          height="140" />
   </picture>
-
+  
   <!-- Streak Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=dark&hide_border=true&background=00000000" />
+            srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=dark&hide_border=true&background=00000000&v=2" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000" />
+            srcset="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2" />
     <img alt="GitHub streak"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=aarushis18&theme=default&hide_border=true&background=00000000"
+         src="https://streak-stats.demolab.com/?user=aarushis18&theme=default&hide_border=true&background=00000000&v=2"
          height="140" />
   </picture>
 
@@ -68,7 +68,7 @@ i like to build because i’m curious. recent cs grad @ university of michigan. 
 
 </p>
 
->working on making my gitHub contribution chart more green 😭
+>trying to keep my github contribution chart green 😭
 ---
 ### find me
 linkedin: [linkedin.com/in/aarushishah](https://www.linkedin.com/in/aarushishah)
