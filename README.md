@@ -1,4 +1,6 @@
-# hi, i'm aarushi!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aarushis18/aarushis18/main/readme_banner.png" alt="hi, i'm aarushi!" width="100%" />
+</p>
 
 i like to build things because i’m curious. recent cs grad @ university of michigan. software engineer who reaches for ml/ai when it serves the problem. minimal, intentional and clean — in code and design.
 
