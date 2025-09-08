@@ -74,5 +74,14 @@
 linkedin: [linkedin.com/in/aarushishah](https://www.linkedin.com/in/aarushishah)
 
 <!-- notes for future me:
-- optionally wire up a github action to update “last watched” (letterboxd)
-- keep this short! link out to write‑ups instead of over‑explaining here. -->
+- keep this short! link out to write‑ups instead of over‑explaining here. 
+- some potential additions:
+  - a quiet/simple visitor counter badge; Komarev flat (light gray) option
+  - top languages
+  - shields badges (monochrome, flat, minimalist, tiny/tasteful metadata)
+  - strava: add a link + strava badge, insert a small strava mini-section, and/or wire an action for recent activity
+  - goodreads: add a goodreads card with the current book
+  - letterboxd: set up a github action to pull my latest film
+  - show the last few github actions
+  - add a “uses” block/line (e.g., tiny line with editor, theme, shell)
+-->
